@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/tbw-website/static/js/main.c2bcb5f6.chunk.js",
+    "main.js.map": "/tbw-website/static/js/main.c2bcb5f6.chunk.js.map",
+    "runtime-main.js": "/tbw-website/static/js/runtime-main.b9100e47.js",
+    "runtime-main.js.map": "/tbw-website/static/js/runtime-main.b9100e47.js.map",
+    "static/js/2.82e0e6f9.chunk.js": "/tbw-website/static/js/2.82e0e6f9.chunk.js",
+    "static/js/2.82e0e6f9.chunk.js.map": "/tbw-website/static/js/2.82e0e6f9.chunk.js.map",
+    "index.html": "/tbw-website/index.html",
+    "precache-manifest.38fc1b31bf5cad2d92b6ea3b3b7a9ec3.js": "/tbw-website/precache-manifest.38fc1b31bf5cad2d92b6ea3b3b7a9ec3.js",
+    "service-worker.js": "/tbw-website/service-worker.js",
+    "static/js/2.82e0e6f9.chunk.js.LICENSE.txt": "/tbw-website/static/js/2.82e0e6f9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b9100e47.js",
+    "static/js/2.82e0e6f9.chunk.js",
+    "static/js/main.c2bcb5f6.chunk.js"
+  ]
+}
