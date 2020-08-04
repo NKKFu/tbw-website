@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fce1268a965735afd0cf6ac082660308",
+    "revision": "0d322f5bd3fd67693075f1b1117c6eea",
     "url": "/tbw-website/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/tbw-website/static/js/2.82e0e6f9.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a64b31d4078fd8f42555",
-    "url": "/tbw-website/static/js/main.c2bcb5f6.chunk.js"
+    "revision": "6829c56b83fc1bedafbd",
+    "url": "/tbw-website/static/js/main.9692b8d9.chunk.js"
   },
   {
     "revision": "7cb269c982d56421f68a",
