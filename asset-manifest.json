@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/tbw-website/static/js/main.9692b8d9.chunk.js",
-    "main.js.map": "/tbw-website/static/js/main.9692b8d9.chunk.js.map",
+    "main.js": "/tbw-website/static/js/main.7a3b4e32.chunk.js",
+    "main.js.map": "/tbw-website/static/js/main.7a3b4e32.chunk.js.map",
     "runtime-main.js": "/tbw-website/static/js/runtime-main.b9100e47.js",
     "runtime-main.js.map": "/tbw-website/static/js/runtime-main.b9100e47.js.map",
-    "static/js/2.82e0e6f9.chunk.js": "/tbw-website/static/js/2.82e0e6f9.chunk.js",
-    "static/js/2.82e0e6f9.chunk.js.map": "/tbw-website/static/js/2.82e0e6f9.chunk.js.map",
+    "static/js/2.79bcb421.chunk.js": "/tbw-website/static/js/2.79bcb421.chunk.js",
+    "static/js/2.79bcb421.chunk.js.map": "/tbw-website/static/js/2.79bcb421.chunk.js.map",
     "index.html": "/tbw-website/index.html",
-    "precache-manifest.1da77cc669b97ffef3c7c9e48da2517d.js": "/tbw-website/precache-manifest.1da77cc669b97ffef3c7c9e48da2517d.js",
+    "precache-manifest.2e8e4c9885c0f4422d44b96afc4325b9.js": "/tbw-website/precache-manifest.2e8e4c9885c0f4422d44b96afc4325b9.js",
     "service-worker.js": "/tbw-website/service-worker.js",
-    "static/js/2.82e0e6f9.chunk.js.LICENSE.txt": "/tbw-website/static/js/2.82e0e6f9.chunk.js.LICENSE.txt"
+    "static/js/2.79bcb421.chunk.js.LICENSE.txt": "/tbw-website/static/js/2.79bcb421.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.b9100e47.js",
-    "static/js/2.82e0e6f9.chunk.js",
-    "static/js/main.9692b8d9.chunk.js"
+    "static/js/2.79bcb421.chunk.js",
+    "static/js/main.7a3b4e32.chunk.js"
   ]
 }
