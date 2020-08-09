@@ -54,8 +54,12 @@ export const Header = styled.div`
         margin: 0 auto;
         margin-top: 10vh;
         width: 250px;
+        text-decoration: none;
 
         button {
+            justify-items: stretch;
+            align-items: center;
+            display: flex;
             width: 100%;
             border: 0;
             border-radius: 3px;
@@ -71,6 +75,16 @@ export const Header = styled.div`
                 text-shadow: 0px 0px 5px #fff;
                 background-color: #e88b00;
                 box-shadow: 0px 5px 25px 3px rgba(232, 139, 0,0.8);
+            }
+            
+            h2 {
+                text-align: center;
+                margin-left: auto;
+                margin-right: 5px;
+            }
+            svg {
+                margin-right: auto;
+                margin-left: 5px;
             }
         }
     }
@@ -109,6 +123,23 @@ export const Section = styled.div`
         b { 
             color: #ff9900;
             text-shadow: 0px 0px 5px rgba(255, 153, 0, 0.5);
+        }
+
+        a {
+            display: flex;
+            width: max-content;
+            background: #ffddab;
+            padding: 20px 40px;
+            text-decoration: none;
+            color: #9c5d00;
+            text-shadow: 0px 0px 10px rgba(255, 153, 0, 1);
+            transition: background-color 0.3s, color 0.3s;
+            border-radius: 5px;
+
+            &:hover {
+                color: #d18b24;
+                background: #ffc775;
+            }
         }
     }
 
